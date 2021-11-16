@@ -83,7 +83,7 @@
 <form id ="frm" enctype = "multipart/form-data">
 	<table style ="width:600px;">
 		<tr>
-			<th>제목</th>
+			<th>제목hihi</th>
 			<td>
 			<input type ="text" name ="title" id ="title">
 			</td>
